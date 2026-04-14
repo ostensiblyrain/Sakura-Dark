@@ -1,0 +1,155 @@
+{
+  "name": "Sakura Dark",
+  "description": "A personal mobile Discord theme that tries to mimic my desktop CSS alterations",
+  "authors": [
+    {
+      "name": "ostensiblyrain",
+      "id": "710255469519831050"
+    }
+  ],
+  "spec": 1,
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "BACKGROUND_BASE_LOW": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "BACKGROUND_BASE_LOWER": [
+      "rgba(97, 87, 110, 1)"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "rgba(60, 55, 70, 1)"
+    ],
+    "BACKGROUND_BRAND": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "BACKGROUND_MOD_STRONG": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "BACKGROUND_SCRIM": [
+      "rgba(0, 0, 0, 0.6)"
+    ],
+    "BACKGROUND_SURFACE_HIGH": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "BG_SURFACE_RAISED": [
+      "rgba(0, 0, 0, 0.4)"
+    ],
+    "BORDER_MUTED": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "BORDER_STRONG": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "CARD_BACKGROUND_DEFAULT": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "CARD_SECONDARY_BG": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "CHANNEL_ICON":[
+      "rgba(255, 174, 191, 1)"
+    ],
+    "EMBED_BACKGROUND": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "rgba(60, 55, 70, 1)"
+    ],
+    "INTERACTIVE_BACKGROUND_ACTIVE": [
+      "rgba(251, 104, 133, 0.5)"
+    ],
+    "INTERACTIVE_ICON_DEFAULT": [
+      "rgba(255, 255, 255, 1)"
+    ],
+    "INTERACTIVE_MUTED": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "INTERACTIVE_TEXT_ACTIVE": [
+      "rgba(255, 255, 255, 1)"
+    ],
+    "INTERACTIVE_TEXT_DEFFAULT": [
+      "rgba(255, 255, 255, 1)"
+    ],
+    "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+      "rgba(251, 104, 133, 0.5)"
+    ],
+    "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "MOBILE_TEXT_HEADING_PRIMARY": [
+      "rgba(255, 255, 255, 1)"
+    ],
+    "PANEL_BG": [
+      "rgba(97, 87, 110, 1)"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "rgba(137, 109, 131, 1)"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "rgba(255, 255, 255, 1)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
+      "rgba(255, 174, 191, 1)"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "TEXT_DEFAULT": [
+      "rgba(255, 230, 235, 1)"
+    ],
+    "TEXT_LINK": [
+      "rgba(251, 104, 133, 1)"
+    ],
+    "TEXT_MUTED": [
+      "rgba(176, 131, 151, 1)"
+    ], 
+    "TEXT_STRONG": [
+      "rgba(255, 230, 235, 1)"
+    ],
+    "TEXT_SUBTLE": [
+      "rgba(176, 131, 151, 1)"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "rgba(176, 131, 151, 1)"
+    ]
+  },
+  "rawColors": {
+    "PLUM_10": "rgba(255, 174, 191, 1)",
+    "RED_400": "rgba(251, 104, 133, 1)",
+    "BLACK_500": "rgba(0, 0, 0, 0.6)",
+    "BRAND_260": "rgba(251, 104, 133, 1)",
+    "BRAND_360": "rgba(251, 104, 133, 1)",
+    "BRAND_500": "rgba(251, 104, 133, 1)"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/802724966847479818/1493437837704695869/20260413_201217.png",
+    "alpha": 0.15
+  }
+}
