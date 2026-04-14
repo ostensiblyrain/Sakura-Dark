@@ -7,7 +7,7 @@
       "id": "710255469519831050"
     }
   ],
-  "spec": 1,
+  "spec": 2,
   "semanticColors": {
     "BACKGROUND_ACCENT": [
       "rgba(176, 131, 151, 1)"
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/802724966847479818/1493437837704695869/20260413_201217.png",
+    "url": "https://i.imgur.com/W5NdNjZ.png",
     "alpha": 0.15
   }
 }
