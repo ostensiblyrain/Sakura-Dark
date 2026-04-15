@@ -60,6 +60,9 @@
     "CHANNEL_ICON":[
       "#ffaebf"
     ],
+    "CHANNELS_DEFAULT": [
+      "#896d83"
+    ],
     "EMBED_BACKGROUND": [
       "#896d83"
     ],
