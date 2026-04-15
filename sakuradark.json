@@ -10,146 +10,145 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "BACKGROUND_BASE_LOW": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "BACKGROUND_BASE_LOWER": [
-      "rgba(97, 87, 110, 1)"
+      "#61576e"
     ],
     "BACKGROUND_BASE_LOWEST": [
-      "rgba(60, 55, 70, 1)"
+      "#3c3746"
     ],
     "BACKGROUND_BRAND": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "BACKGROUND_MOD_MUTED": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "BACKGROUND_MOD_STRONG": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "BACKGROUND_SCRIM": [
-      "rgba(0, 0, 0, 0.6)"
+      "#000000"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "BG_SURFACE_RAISED": [
-      "rgba(0, 0, 0, 0.4)"
+      "#000000"
     ],
     "BORDER_MUTED": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "BORDER_STRONG": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "BORDER_SUBTLE": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "CARD_SECONDARY_BG": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "CHANNEL_ICON":[
-      "rgba(255, 174, 191, 1)"
+      "#ffaebf"
     ],
     "EMBED_BACKGROUND": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "rgba(60, 55, 70, 1)"
+      "#3c3746"
     ],
     "INTERACTIVE_BACKGROUND_ACTIVE": [
-      "rgba(251, 104, 133, 0.5)"
+      "#fb6885"
     ],
     "INTERACTIVE_ICON_DEFAULT": [
-      "rgba(255, 255, 255, 1)"
+      "#ffffff"
     ],
     "INTERACTIVE_MUTED": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "INTERACTIVE_TEXT_ACTIVE": [
-      "rgba(255, 255, 255, 1)"
+      "#ffffff"
     ],
     "INTERACTIVE_TEXT_DEFFAULT": [
-      "rgba(255, 255, 255, 1)"
+      "#ffffff"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "rgba(251, 104, 133, 0.5)"
+      "#fb6885"
     ],
     "MOBILE_ANDROID_BUTTON_BACKGROUND_RIPPLE": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
-      "rgba(255, 255, 255, 1)"
+      "#ffffff"
     ],
     "PANEL_BG": [
-      "rgba(97, 87, 110, 1)"
+      "#61576e"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "rgba(137, 109, 131, 1)"
+      "#896d83"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "rgba(255, 255, 255, 1)"
+      "#ffffff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-      "rgba(255, 174, 191, 1)"
+      "#ffaebf"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "TEXT_DEFAULT": [
-      "rgba(255, 230, 235, 1)"
+      "#ffe6eb"
     ],
     "TEXT_LINK": [
-      "rgba(251, 104, 133, 1)"
+      "#fb6885"
     ],
     "TEXT_MUTED": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ], 
     "TEXT_STRONG": [
-      "rgba(255, 230, 235, 1)"
+      "#ffe6eb"
     ],
     "TEXT_SUBTLE": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "rgba(176, 131, 151, 1)"
+      "#b08397"
     ]
   },
   "rawColors": {
-    "PLUM_10": "rgba(255, 174, 191, 1)",
-    "RED_400": "rgba(251, 104, 133, 1)",
-    "BLACK_500": "rgba(0, 0, 0, 0.6)",
-    "BRAND_260": "rgba(251, 104, 133, 1)",
-    "BRAND_360": "rgba(251, 104, 133, 1)",
-    "BRAND_500": "rgba(251, 104, 133, 1)"
+    "PLUM_10": "#ffaebf",
+    "RED_400": "#fb6885",
+    "BLACK_500": "#000000",
+    "BRAND_260": "#fb6885",
+    "BRAND_360": "#fb6885",
+    "BRAND_500": "#fb6885"
   },
   "background": {
-    "blur": 0,
-    "url": "https://imgur.com/a/W5NdNjZ",
+    "url": "https://i.imgur.com/W5NdNjZ.png",
     "alpha": 1
   }
 }
