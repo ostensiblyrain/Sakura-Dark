@@ -12,13 +12,13 @@
     "BACKGROUND_ACCENT": [
       "#b08397"
     ],
-    "BACKGROUND_BASE_LOW": [
+    "BACKGROUND_PRIMARY": [
       "#896d83"
     ],
-    "BACKGROUND_BASE_LOWER": [
+    "BACKGROUND_SECONDARY": [
       "#61576e"
     ],
-    "BACKGROUND_BASE_LOWEST": [
+    "BACKGROUND_TERTIARY": [
       "#3c3746"
     ],
     "BACKGROUND_BRAND": [
@@ -81,9 +81,6 @@
     "INTERACTIVE_TEXT_DEFFAULT": [
       "#ffffff"
     ],
-    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
-      "#000000(80)"
-    ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "#fb6885"
     ],
@@ -123,7 +120,7 @@
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#fb6885"
     ],
-    "TEXT_DEFAULT": [
+    "TEXT_NORMAL": [
       "#ffe6eb"
     ],
     "TEXT_LINK": [
