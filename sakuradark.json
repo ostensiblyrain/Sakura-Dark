@@ -34,7 +34,7 @@
       "#000000"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#b08397"
+      "#000000(80)"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
       "#896d83"
@@ -80,6 +80,9 @@
     ],
     "INTERACTIVE_TEXT_DEFFAULT": [
       "#ffffff"
+    ],
+    "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+      "#000000(80)"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
       "#fb6885"
