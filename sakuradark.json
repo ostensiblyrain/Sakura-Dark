@@ -12,13 +12,13 @@
     "BACKGROUND_ACCENT": [
       "#b08397"
     ],
-    "BACKGROUND_PRIMARY": [
+    "BG_BASE_PRIMARY": [
       "#896d83"
     ],
-    "BACKGROUND_SECONDARY": [
+    "BG_BASE_SECONDARY": [
       "#61576e"
     ],
-    "BACKGROUND_TERTIARY": [
+    "BG_BASE_TERTIARY": [
       "#3c3746"
     ],
     "BACKGROUND_BRAND": [
