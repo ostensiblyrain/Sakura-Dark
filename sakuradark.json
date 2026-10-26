@@ -10,16 +10,16 @@
   "spec": 2,
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#b08397"
+      "#963651"
     ],
-    "BG_BASE_PRIMARY": [
-      "#896d83"
+    "BACKGROUND_BASE_LOW": [
+      "#85304a"
     ],
-    "BG_BASE_SECONDARY": [
-      "#61576e"
+    "BACKGROUND_BASE_LOWER": [
+      "#4c223a"
     ],
-    "BG_BASE_TERTIARY": [
-      "#3c3746"
+    "BACKGROUND_BASE_LOWEST": [
+      "#301c30"
     ],
     "BACKGROUND_BRAND": [
       "#fb6885"
@@ -34,10 +34,10 @@
       "#000000"
     ],
     "BACKGROUND_SURFACE_HIGH": [
-      "#000000(80)"
+      "#963651"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#896d83"
+      "#85304a"
     ],
     "BG_SURFACE_RAISED": [
       "#000000"
@@ -52,22 +52,19 @@
       "#fb6885"
     ],
     "CARD_BACKGROUND_DEFAULT": [
-      "#896d83"
+      "#85304a"
     ],
     "CARD_SECONDARY_BG": [
-      "#896d83"
+      "#85304a"
     ],
     "CHANNEL_ICON":[
       "#ffaebf"
     ],
-    "CHANNELS_DEFAULT": [
-      "#896d83"
-    ],
     "EMBED_BACKGROUND": [
-      "#896d83"
+      "#85304a"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#3c3746"
+      "#301c30"
     ],
     "INTERACTIVE_BACKGROUND_ACTIVE": [
       "#fb6885"
@@ -76,7 +73,7 @@
       "#ffffff"
     ],
     "INTERACTIVE_MUTED": [
-      "#b08397"
+      "#963651"
     ],
     "INTERACTIVE_TEXT_ACTIVE": [
       "#ffffff"
@@ -91,31 +88,31 @@
       "#fb6885"
     ],
     "MOBILE_EXPRESSION_PICKER_BACKGROUND_DEFAULT": [
-      "#896d83"
+      "#85304a"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
       "#ffffff"
     ],
     "PANEL_BG": [
-      "#61576e"
+      "#4c223a"
     ],
     "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
       "#fb6885"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#896d83"
+      "#85304a"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#b08397"
+      "#963651"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#b08397"
+      "#963651"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#ffffff"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#b08397"
+      "#963651"
     ],
     "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
       "#ffaebf"
@@ -123,23 +120,23 @@
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#fb6885"
     ],
-    "TEXT_NORMAL": [
+    "TEXT_DEFAULT": [
       "#ffe6eb"
     ],
     "TEXT_LINK": [
       "#fb6885"
     ],
     "TEXT_MUTED": [
-      "#b08397"
+      "#963651"
     ], 
     "TEXT_STRONG": [
       "#ffe6eb"
     ],
     "TEXT_SUBTLE": [
-      "#b08397"
+      "#963651"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#b08397"
+      "#963651"
     ]
   },
   "rawColors": {
@@ -151,7 +148,7 @@
     "BRAND_500": "#fb6885"
   },
   "background": {
-    "url": "https://i.postimg.cc/m26vLmvK/cherryblossomswallpapermobiledarkened.png",
+    "url": "https://i.imgur.com/W5NdNjZ.png",
     "alpha": 1
   }
 }
